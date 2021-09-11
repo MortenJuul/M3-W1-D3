@@ -19,8 +19,12 @@
   "homepage": "https://github.com/MortenJuul/M3-W1-D3#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "express-validator": "^6.12.1",
+    "http-auth": "^4.1.9",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.5",
     "pug": "^3.0.2"
   },
   "devDependencies": {
